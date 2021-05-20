@@ -14,6 +14,8 @@ With help from Matthias and Liz from ADRC
 
 ## Lessons
 
+## Resources to support lesson
+
 ### Create a repository
 ### Add a licence
 ### Edit README
